@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JOY EDU - Trợ Lý Tạo Đề AI</title>
+    <title>Trợ lý AI môn GDQP&AN</title>
     <!-- Font chữ hiện đại Inter -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <!-- Thư viện Supabase -->
